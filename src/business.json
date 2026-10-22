@@ -1,0 +1,195 @@
+{
+  "slug": "richie-moni-concept",
+  "name": "Richie Moni Ventures",
+  "wordmark": "richie moni.",
+  "wordmarkSub": "YOUR SPACE, BETTER CONSIDERED",
+  "theme": "richie",
+  "accent": "#d9ef83",
+  "paper": "#f3f4ec",
+  "ink": "#25362a",
+  "model": "furniture",
+  "modelLabel": "The media cabinet",
+  "location": "Accra, Ghana",
+  "kicker": "MAKE YOUR SPACE WORK",
+  "title": "Room for",
+  "titleEm": "better living",
+  "subtitle": "Great furniture starts with the right fit. Explore ideas for your home, shortlist the details you love, and build a brief around your room.",
+  "heroAlt": "Generated editorial illustration of a contemporary oak and cream media cabinet and coffee table",
+  "stamp": "fit first",
+  "ticker": "Made for the room. Chosen for you.",
+  "exploreLabel": "The collection",
+  "storyLabel": "The details",
+  "visitLabel": "Contact the seller",
+  "planNoun": "room brief",
+  "heroCta": "Find your room’s next chapter",
+  "experienceTitle": "Good design",
+  "experienceEm": "from every side.",
+  "exploreTitle": "One room",
+  "exploreEm": "many possibilities.",
+  "exploreNote": "Two real seller-published photographs and a labelled concept study. Historical listings do not establish current stock or prices.",
+  "items": [
+    {
+      "id": "media",
+      "name": "TV stand & centre table",
+      "category": "Living room",
+      "description": "A paired furniture listing published by Richie Moni Ventures. Confirm the current dimensions, finish, stock and delivery options with the seller.",
+      "image": "./product-1.jpg",
+      "alt": "TV stand and centre table in Richie Moni Ventures marketplace listing",
+      "meta": "Historical seller listing · confirm current specifications",
+      "source": "https://fabamall.com/products/designer-tv-stand-and-center-table-ghana-1157/"
+    },
+    {
+      "id": "furniture",
+      "name": "Modern luxury media set",
+      "category": "Living room",
+      "description": "A light-coloured TV stand and centre table in the seller’s historical catalogue. Ask about dimensions, finish and current availability.",
+      "image": "./product-2.jpg",
+      "alt": "Furniture photograph published in Richie Moni Ventures seller catalogue",
+      "meta": "Seller photograph · exact current product details unconfirmed",
+      "source": "https://fabamall.com/products/tv-stand-price-in-ghana-1158/"
+    },
+    {
+      "id": "dining",
+      "name": "Composite dining set",
+      "category": "Dining room",
+      "image": "./dining.jpg",
+      "source": "https://fabamall.com/products/ceramic-composite-dinning-set-price-ghana-1156/",
+      "description": "A genuine seller-published furniture photograph. Confirm the current product specifications, availability, price and delivery options directly with the seller.",
+      "alt": "Composite dining set photograph published by Richie Moni Ventures",
+      "meta": "Historical seller photograph · confirm current details"
+    },
+    {
+      "id": "office",
+      "name": "Executive office chair",
+      "category": "Home office",
+      "image": "./office-chair.jpg",
+      "source": "https://fabamall.com/products/Swivel-chair-in-accra-ghana-1155/",
+      "description": "A genuine seller-published furniture photograph. Confirm the current product specifications, availability, price and delivery options directly with the seller.",
+      "alt": "Executive office chair photograph published by Richie Moni Ventures",
+      "meta": "Historical seller photograph · confirm current details"
+    },
+    {
+      "id": "gallery",
+      "name": "Dining room gallery",
+      "category": "Seller gallery",
+      "image": "./seller-gallery.jpg",
+      "source": "https://fabamall.com/photo-gallery/richie-moni-ventures-153/",
+      "description": "A genuine seller-published furniture photograph. Confirm the current product specifications, availability, price and delivery options directly with the seller.",
+      "alt": "Dining room gallery photograph published by Richie Moni Ventures",
+      "meta": "Historical seller photograph · confirm current details"
+    }
+  ],
+  "profile": "Richie Moni Ventures is an Accra furniture seller with a public Fabamall catalogue. The seller profile lists furniture and a public contact number, and displays ‘No Website’. Its marketplace membership dates to December 2022.",
+  "problem": "Furniture shoppers need fit, material and delivery details before a useful sales conversation. The room brief collects measurements, preferred finish and destination questions with a visual shortlist.",
+  "storyTitle": "More than a photo",
+  "storyEm": "the right fit.",
+  "sourceUrl": "https://fabamall.com/shops/richie-moni-ventures-153/",
+  "socialSource": "https://fabamall.com/products/designer-tv-stand-and-center-table-ghana-1157/",
+  "socialAlt": "TV stand and centre table from Richie Moni Ventures seller-published marketplace listing",
+  "socialCaption": "Seller-published product photo via Fabamall · original watermark retained",
+  "fields": [
+    {
+      "name": "room",
+      "label": "Which room?",
+      "type": "select",
+      "options": [
+        "Living room",
+        "Bedroom",
+        "Home office",
+        "Other space"
+      ]
+    },
+    {
+      "name": "width",
+      "label": "Available wall width (cm)",
+      "type": "number",
+      "min": 30,
+      "max": 2000,
+      "required": true
+    },
+    {
+      "name": "finish",
+      "label": "Finish direction",
+      "type": "select",
+      "options": [
+        "Light wood",
+        "Dark wood",
+        "Painted or lacquered",
+        "Need advice"
+      ]
+    },
+    {
+      "name": "area",
+      "label": "Delivery area to discuss",
+      "type": "text",
+      "required": true,
+      "placeholder": "City or neighbourhood only"
+    }
+  ],
+  "notesPlaceholder": "Depth, height, cable storage, materials and delivery questions…",
+  "plannerTitle": "Your room",
+  "plannerEm": "your requirements.",
+  "titlePlaceholder": "e.g. A better living-room setup",
+  "address": "Accra, Ghana · contact via the seller profile",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=furniture+Accra+Ghana",
+  "visitCopy": "The marketplace profile lists 0244701713. Confirm current contact details and arrange any showroom visit directly with the seller.",
+  "faq": [
+    [
+      "Are the prices and stock current?",
+      "No current stock or prices are claimed. The marketplace photographs and listings are historical; confirm the actual item, dimensions and availability before making a purchase."
+    ],
+    [
+      "Does saving a plan place an order?",
+      "No. A saved draft is a planning aid. Confirm specifications, availability, pricing and any commitments directly with the business. The optional concept inbox goes to the website creator, not the real business."
+    ],
+    [
+      "How does the dashboard work?",
+      "Local drafts stay in this browser. The separate shared concept inbox uses authenticated access and database membership rules. Only approved verified accounts can manage the records assigned to their site."
+    ]
+  ],
+  "footerTitle": "Make room",
+  "footerEm": "for a better fit.",
+  "websiteStatus": "Fabamall seller profile explicitly says ‘No Website’; no separate official domain found. This records the directory evidence rather than proving permanent absence.",
+  "sources": [
+    "https://fabamall.com/shops/richie-moni-ventures-153/",
+    "https://fabamall.com/products/designer-tv-stand-and-center-table-ghana-1157/"
+  ],
+  "imagePrompt": "Original contemporary oak and cream media cabinet with matching coffee table in a warm minimalist Accra apartment, olive wall, natural architectural sunlight, tactile materials; illustrative design concept, not an actual seller product.",
+  "layout": "richie",
+  "modelColor": "#9b704c",
+  "issue": "THE INDEPENDENT DESIGN SERIES",
+  "cta": "Create a room brief",
+  "heroNote": "An independent, uncommissioned concept. Confirm actual products and services directly.",
+  "stampTop": "THE DESIGN",
+  "stampBottom": "IN MOTION",
+  "heroFoot": "ACCRA, GHANA",
+  "experienceKicker": "A DIFFERENT PERSPECTIVE",
+  "experienceCopy": "Explore our original the media cabinet study in real time. Scroll to rotate and separate the elements, or drag for a closer look. The model is illustrative, not an exact business product.",
+  "exploreKicker": "EXPLORE THE POSSIBILITIES",
+  "storyKicker": "THE BUSINESS BEHIND THE IDEA",
+  "storyCopy": "Richie Moni Ventures is an Accra furniture seller with a public Fabamall catalogue. The seller profile lists furniture and a public contact number, and displays ‘No Website’. Its marketplace membership dates to December 2022.",
+  "storyMore": "Furniture shoppers need fit, material and delivery details before a useful sales conversation. The room brief collects measurements, preferred finish and destination questions with a visual shortlist.",
+  "stepsTitle": "FROM A FIRST IDEA TO A CLEARER CONVERSATION",
+  "steps": [
+    [
+      "Explore",
+      "Browse the guide and shortlist the items that matter to you."
+    ],
+    [
+      "Shape",
+      "Add the practical details using the planning form below."
+    ],
+    [
+      "Discuss",
+      "Download your draft and confirm the next steps directly with the business."
+    ]
+  ],
+  "plannerKicker": "LET’S GET THE DETAILS RIGHT",
+  "plannerCopy": "Prepare a useful room brief before you speak to the business. Your draft is a starting point, not an accepted order, quotation or confirmed appointment.",
+  "notesLabel": "Details and questions",
+  "visitKicker": "MAKE THE NEXT STEP CLEAR",
+  "visitTitle": "Find your way",
+  "visitEm": "to the source.",
+  "visitNote": "No live opening status or stock availability is claimed. Confirm current details directly before travelling or placing an order.",
+  "dashboardKicker": "RICHIE MONI VENTURES / ROOM BRIEFS"
+}
